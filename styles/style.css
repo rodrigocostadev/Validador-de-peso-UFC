@@ -26,13 +26,13 @@ main{
     bottom: -100px;
     margin: auto;
     /* margin-bottom: 1000px; */
-    color: rgb(81, 7, 7);
+    color: rgb(59, 4, 4);
     padding: 15px;
     border-radius: 20px;
     text-align: center;
     /* background-color: white;
     opacity: 0.5; */
-    background: linear-gradient(to top, rgba(195, 190, 190, 0.8) 0, rgba(131, 129, 129, 0.5) 60%, rgba(211, 208, 208, 0.8) 90%);
+    background: linear-gradient(to top, rgba(180, 56, 56, 0.8) 0, rgba(131, 129, 129, 0.5) 60%, rgba(139, 137, 137, 0.725) 90%);
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     /* display: flex;
     align-items: center;
